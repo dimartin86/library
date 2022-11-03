@@ -1,0 +1,8 @@
+.background_welcome{
+    background: #dadada !important;
+    height: calc(100vh - 100px);
+}
+
+.py-4{
+    padding: 30px !important;
+}

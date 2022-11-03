@@ -1,0 +1,37 @@
+html{
+    overflow: hidden;
+}
+
+.home_container{
+  background-image: url("../img/background.png");
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.py-4{
+    padding: 0px !important;
+}
+
+.dataTables_wrapper{
+    background: #fff;
+    max-width: 70%;
+    margin: 0 auto;
+}
+
+/*============================= HOME PAGE */
+
+#welcome_main_section h1{
+    color: #99fd8e;
+    font-size: 40px;
+}
+
+#welcome_main_section p{
+    color: #fff;
+    font-size: 18px;
+}
+
+
+
+
